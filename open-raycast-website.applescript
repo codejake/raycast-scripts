@@ -1,5 +1,7 @@
 #!/usr/bin/osascript
 
+# https://github.com/codejake/raycast-scripts/
+
 # Required parameters:
 # @raycast.schemaVersion 1
 # @raycast.title Open raycast.com in new Safari window
